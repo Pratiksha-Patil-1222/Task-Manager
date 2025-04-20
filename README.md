@@ -1,8 +1,8 @@
-Task Management System (To-Do List Application) :
+#Task Management System (To-Do List Application) :
 
 A full-stack web application designed to help users manage their daily tasks. The app allows users to register, log in, and perform CRUD operations on tasks. Built with Angular 19 for the frontend and Spring Boot (Java 17) for the backend, with MySQL as the database.
 
-🚀 Features :
+#🚀 Features :
 
 1.User Authentication: user login and registration .
 
@@ -14,7 +14,7 @@ A full-stack web application designed to help users manage their daily tasks. Th
 
 5.Database Integration: Uses MySQL for persistent storage.
 
-🔧 Technologies Used :
+#🔧 Technologies Used :
 
 1.Frontend: Angular 19, HTML, CSS, Bootstrap
 
